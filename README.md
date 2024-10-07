@@ -3,7 +3,7 @@
   Bede
 </h1>
 
-A simple theme, dedicated to the Venerable Bede, father of English history.
+A simple vscode theme, dedicated to the Venerable Bede, father of English history.
 
 ```
 Fore thaem neidfaerae ‖ naenig uuiurthit
