@@ -1,8 +1,10 @@
 <h1>
-  <img src="https://github.com/caiodrear/bede/blob/main/bede.png" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://github.com/caiodrear/bede/blob/main/bede.png" width="32" height="32" style="vertical-align: middle;">
   Bede
 </h1>
 A simple theme, dedicated to the Venerable Bede, father of English history.
+
+&nbsp;
 
 ```
 Fore thaem neidfaerae ‖ naenig uuiurthit
