@@ -2,7 +2,7 @@
   "publisher": "caiodrear",
   "name": "bede",
   "displayName": "Bede",
-  "icon": "bede.png",
+  "icon": "images/bede.png",
   "description": "A venerable theme for fans of the Alexandrian computus.",
   "version": "0.0.1",
   "engines": {

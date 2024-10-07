@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/caiodrear/bede/blob/main/bede.png" width="32" height="32" style="vertical-align: middle;">
+  <img src="https://github.com/caiodrear/bede/blob/main/images/bede.png" width="32" height="32" style="vertical-align: middle;">
   Bede
 </h1>
 
