@@ -1,5 +1,5 @@
 <h1>
-  <img src="bede.png" width="40" height="40" style="vertical-align: middle;">
+  <img src="https://github.com/caiodrear/bede/blob/main/bede.png" width="30" height="30" style="vertical-align: middle;">
   Bede
 </h1>
 A simple theme, dedicated to the Venerable Bede, father of English history.
