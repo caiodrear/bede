@@ -12,3 +12,9 @@ to ymbhycggannae ‖ aer his hiniongae
 huaet his gastae ‖ godaes aeththa yflaes
 aefter deothdaege ‖ doemid uueorthae.
 ```
+
+## Installation
+
+``` bash
+git clone https://github.com/caiodrear/bede.git ~/.vscode/extensions/bede
+```
