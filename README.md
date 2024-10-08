@@ -12,7 +12,7 @@ to ymbhycggannae ‖ aer his hiniongae
 huaet his gastae ‖ godaes aeththa yflaes
 aefter deothdaege ‖ doemid uueorthae.
 ```
-<img src="https://github.com/caiodrear/bede/raw/HEAD/images/vscode.png" style="vertical-align: middle;">
+<img src="https://github.com/caiodrear/bede/raw/HEAD/images/vscode.png">
 
 ## Installation
 
