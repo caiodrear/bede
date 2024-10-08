@@ -1,5 +1,6 @@
 {
 	"name": "Bede",
+	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBackground": "#221f20",
