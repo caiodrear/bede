@@ -1400,25 +1400,25 @@
 		{
 			"scope": "keyword - keyword.operator",
 			"settings": {
-				"foreground": "#A4392A"
+				"foreground": "#d94936"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#A4392A"
+				"foreground": "#d94936"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#A4392A"
+				"foreground": "#d94936"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#A4392A"
+				"foreground": "#d94936"
 			}
 		},
 		{
