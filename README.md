@@ -19,3 +19,20 @@ aefter deothdaege ‖ doemid uueorthae.
 ``` bash
 git clone https://github.com/caiodrear/bede.git ~/.vscode/extensions/bede
 ```
+
+Add the following to your `~/.vscode/extensions.json`:
+
+``` json
+{
+    "identifier": {
+        "id": "caiodrear.bede"
+    },
+    "version": "0.0.1",
+    "location": {
+        "$mid": 1,
+        "path": "/Users/caio.rear/.vscode/extensions/bede",
+        "scheme": "file"
+    },
+    "relativeLocation": "bede"
+}
+```
