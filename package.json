@@ -1,23 +1,26 @@
 {
-  "publisher": "caiodrear",
-  "name": "bede",
-  "displayName": "Bede",
-  "icon": "images/bede.png",
-  "description": "A venerable theme for fans of the Alexandrian computus.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.94.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Bede",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Bede-color-theme.json"
-      }
-    ]
-  }
+	"publisher": "caiodrear",
+	"name": "bede",
+	"displayName": "Bede",
+	"icon": "images/bede.png",
+	"description": "A venerable theme for fans of the Alexandrian computus.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.94.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Bede",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Bede-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 798327
+	}
 }
